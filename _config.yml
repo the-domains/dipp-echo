@@ -1,0 +1,28 @@
+name: Dipp Echo
+favicon: null
+layout_spectrum: 0.6468123774975538
+typography_spectrum: 0.05351146752946079
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7345330589450896
+  lightness: 0.5471312878653407
+  saturation: 0.7601858645211905
+  rhythmicContrast: 0.15287662320770323
+purpose: []
